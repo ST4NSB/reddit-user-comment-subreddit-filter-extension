@@ -3,7 +3,7 @@ a simple reddit extension to filter posts by subreddit
 
 
 Without extension:
-![image](https://user-images.githubusercontent.com/38291834/118855313-513af180-b8de-11eb-9a8e-ea1e59fe6555.png)
+![image](https://user-images.githubusercontent.com/38291834/118855549-89423480-b8de-11eb-9428-f4784ddadede.png)
 
 With extension:
-![image](https://user-images.githubusercontent.com/38291834/118855392-66178500-b8de-11eb-85f6-98b1d0790738.png)
+![image](https://user-images.githubusercontent.com/38291834/118855593-95c68d00-b8de-11eb-9d61-6e57b04f59de.png)
