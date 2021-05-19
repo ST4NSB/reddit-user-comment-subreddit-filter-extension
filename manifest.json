@@ -1,0 +1,25 @@
+{
+	"manifest_version": 2,
+	"name": "User comments subreddit filter",
+	"author": "ST4NSB",
+	"permissions": [
+		"tabs",
+		"*://*.reddit.com/user/**"
+	],
+	"description": "Useful to filter user comments by subreddit",
+	"version": "1.0",
+	"content_scripts": [
+		{
+			"matches": [
+				"*://*.reddit.com/user/*"
+			],
+			"css": [
+				"assets/content.css"
+			],
+			"js": [
+                "jquery.js",
+				"content.js"
+			]
+		}
+	]
+}

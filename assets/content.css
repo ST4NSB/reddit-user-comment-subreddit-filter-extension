@@ -1,0 +1,19 @@
+.subreddit_filter_text, #subreddit_filters {
+    margin-top: 2px;
+}
+
+#subreddit_filters {
+    color: gray;
+    font-weight: bold;
+    text-decoration: underline;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 0 3px;
+    outline: none;
+}
+
+#subreddit_filters option {
+    color: #369;
+}
